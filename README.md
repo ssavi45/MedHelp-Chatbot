@@ -9,3 +9,6 @@ conda create -n medicalChatbot python=3.11 -y
 conda activate medicalChatbot
 ```
 
+```bash
+pip install requirement.txt
+```
