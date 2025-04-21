@@ -13,10 +13,12 @@ pip install -r requirements.txt
 ### Create `.env` file in the root directory
 ### Get pinecone api key from pinecone.io and create an index to get pinecone api environment
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx" 
+<br>
 PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ### Download model from the following link and keep the model in the model directory:
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+<br>
 Model Name: llama-2-7b-chat.ggmlv3.q4_0.bin
 
 ### Download the medical book (Gale encyclopedia of medicine) from the following drive link and keep this in data folder
@@ -38,7 +40,7 @@ python app.py
 - Pinecone
 
 ### Group details:
-Group: 08
+Group: 08 <br>
 Member 01: Shoumik Sarkar
 ID: 2211320042
 Email: shoumik.sarkar@northsouth.edu
