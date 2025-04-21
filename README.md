@@ -4,6 +4,7 @@
 
 ### Create a conda environment and activate it
 conda create -n medhelp python=3.11 -y
+<br>
 conda activate medhelp
 
 ### Install the requirements
