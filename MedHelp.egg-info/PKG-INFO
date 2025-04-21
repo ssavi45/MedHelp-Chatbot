@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: MedHelp
+Version: 0.0.1
+Author: CSE299#Group-8 (Shoumik, Shefat, Anik)
+Author-email: group08@northsouth.edu
+License-File: LICENSE
+Requires-Dist: langchain>=0.2.0
+Requires-Dist: langchain-community>=0.0.10
+Requires-Dist: pinecone-client>=3.0.0
+Requires-Dist: python-dotenv
+Requires-Dist: sentence-transformers
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
